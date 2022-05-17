@@ -13,8 +13,8 @@
 ### Dành cho windows
 
 [**Bấm vào đây để tải xuống**](https://github.com/DauDau432/spam-mm/blob/main/spam.exe?raw=true)
-- Dành cho linux
-### Tập lệnh tải xuống
+### Dành cho linux
+Tập lệnh tải xuống
 ```
 wget https://raw.githubusercontent.com/DauDau432/spam-mm/main/spam.py
 ```
