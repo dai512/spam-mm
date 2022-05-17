@@ -8,7 +8,7 @@ Tập lệnh tải xuống
 wget https://raw.githubusercontent.com/DauDau432/spam-mm/main/spam.py
 ```
 ## Yêu cầu
-- Cài đặt [python]()
+- Cài đặt [python](https://www.python.org/downloads/windows/)
 
 - Cài đặt các thư viện cần thiết
 ```
