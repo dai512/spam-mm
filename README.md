@@ -3,6 +3,21 @@
 
 [Bấm vào đây để tải xuống](https://github.com/DauDau432/spam-mm/blob/main/spam.exe?raw=true)
 - Dành cho linux
+Tập lệnh tải xuống
 ```
-wget 
+wget https://raw.githubusercontent.com/DauDau432/spam-mm/main/spam.py
+```
+## Yêu cầu
+- Cài đặt [python]()
+
+- Cài đặt các thư viện cần thiết
+```
+pip install requests
+```
+```
+pip install NongHoangVu
+```
+## Khởi chạy
+```
+python spam.py
 ```
