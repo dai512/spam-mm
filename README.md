@@ -20,8 +20,8 @@ wget https://raw.githubusercontent.com/DauDau432/spam-mm/main/spam.py
 ```
 ## Yêu cầu
 - Cài đặt python
-Dành cho windows
-[Tải xuống tại đây](https://www.python.org/downloads/windows/)
+Dành cho windows [(Tải xuống tại đây)](https://www.python.org/downloads/windows/)
+
 Dành cho linux
 ```
 apt install python3-pip
