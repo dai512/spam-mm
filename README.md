@@ -1,16 +1,20 @@
 # Tools Spam OTP momo & viettell pay
 ## Hỗ trợ
-[x] Windows
-[x] Ubuntu
-[x] Centos
-[x] Debian
-[x] Termux
+- Windows
 
-- Dành cho windows
+- Ubuntu
+
+- Centos
+
+- Debian
+
+- Termux
+
+**Dành cho windows**
 
 [**Bấm vào đây để tải xuống**](https://github.com/DauDau432/spam-mm/blob/main/spam.exe?raw=true)
 - Dành cho linux
-Tập lệnh tải xuống
+**Tập lệnh tải xuống**
 ```
 wget https://raw.githubusercontent.com/DauDau432/spam-mm/main/spam.py
 ```
